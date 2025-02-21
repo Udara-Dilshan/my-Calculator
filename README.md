@@ -9,13 +9,13 @@ A simple and efficient web-based calculator built using HTML, CSS, and JavaScrip
 - Easy-to-use interface
 
 ## Live Demo
-  
+  https://udara-dilshan.github.io/Calculator-CODSOFT/
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Udara-Dilshan/Calculator---CODSOFT.git
+   git clone https://github.com/Udara-Dilshan/Calculator-CODSOFT.git
 Open the index.html file in your browser to start using the calculator.
 
 ## How to Use
