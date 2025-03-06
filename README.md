@@ -9,7 +9,7 @@ A simple and efficient web-based calculator built using HTML, CSS, and JavaScrip
 - Easy-to-use interface
 
 ## Live Demo
-  https://udara-dilshan.github.io/Calculator-CODSOFT/
+https://udara-dilshan.github.io/my-Calculator/
 
 ## Installation
 
